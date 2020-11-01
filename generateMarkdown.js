@@ -10,7 +10,6 @@ function generateMarkdown(data) {
 
     * [Installation] (#installation)
     * [Usage](#usage)
-    * [Credits](#credits)
     * [License](#license)
     * [Badges] (#badges)
     * [Contributing] (#contributing)
@@ -20,8 +19,6 @@ function generateMarkdown(data) {
     ## Installation STEP_BY_STEP_OF_WHAT_YOU_USED
 
     ## Usage INCLUDE_SCREENSHOTS_VIDEO
-
-    ## Credits LIST_COLLABORATORS
 
     ## License 
 

@@ -14,8 +14,28 @@ const questions = [
       },
       {
         type: "input",
-        message: "What is the title of your readme?",
-        name: "name",
+        message: "What is the description?",
+        name: "description",
+      },
+      {
+        type: "input",
+        message: "What are the instructions for installation?",
+        name: "installation",
+      },
+      {
+        type: "input",
+        message: "What did you use to create this?",
+        name: "usage",
+      },
+      {
+        type: "input",
+        message: "Who contributed in this project?",
+        name: "contributing",
+      },
+      {
+        type: "input",
+        message: "How do you test this project?",
+        name: "test",
       },
     ])
     .then((response) => {
