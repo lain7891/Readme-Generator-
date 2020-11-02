@@ -2,29 +2,26 @@
 function generateMarkdown(data) {
   return `# ${data.title}
   
-  ![badge](https://img.shields.io/badge/${encodeURI(data.license)}-<License>-<color>)
+  ![badge](https://img.shields.io/badge/${encodeURI(data.license)}-License-<color>)
 
-    # Project Title TITLE_NAME_HERE \n ${data.name}
+    # Project Title \n ${data.name}
 
-    ## Description WRITE_DESCRIPTION_OF_PROJECT \n ${data.description}
+    ## Description \n ${data.description}
 
     ## Table of Content
 
-    * [Installation] (#-installation)
+    * [Installation](#installation)
     * [Usage](#usage)
     * [License](#license)
-    * [Badges] (#badges)
-    * [Contributing] (#contributing)
-    * [Tests] (#tests)
-    * [Questions] (#questions)
+    * [Contributing](#contributing)
+    * [Tests](#tests)
+    * [Questions](#questions)
     
-    ## Installation STEP_BY_STEP_OF_WHAT_YOU_USED \n ${data.installation}
+    ## Installation  \n ${data.installation}
 
-    ## Usage INCLUDE_SCREENSHOTS_VIDEO \n ${data.usage}
+    ## Usage  \n ${data.usage}
 
-    ## License \n ${data.license}
-
-    ## Badges \n ${data.badges}
+    ## License used for this website is \n ${data.license}
 
     ## Contributing \n ${data.contributing}
 

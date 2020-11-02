@@ -1,34 +1,30 @@
 # undefined
   
-  ![badge](https://img.shields.io/badge/Mozilla%20Public%20License-<License type>-<color>)
+  ![badge](https://img.shields.io/badge/GPL-License-<color>)
 
-    # Project Title TITLE_NAME_HERE 
+    # Project Title 
  
 
-    ## Description WRITE_DESCRIPTION_OF_PROJECT 
+    ## Description 
  
 
     ## Table of Content
 
-    * [Installation] (#installation)
+    * [Installation](#installation)
     * [Usage](#usage)
     * [License](#license)
-    * [Badges] (#badges)
-    * [Contributing] (#contributing)
-    * [Tests] (#tests)
-    * [Questions] (@questions)
+    * [Contributing](#contributing)
+    * [Tests](#tests)
+    * [Questions](#questions)
     
-    ## Installation STEP_BY_STEP_OF_WHAT_YOU_USED 
+    ## Installation  
  
 
-    ## Usage INCLUDE_SCREENSHOTS_VIDEO 
+    ## Usage  
  
 
-    ## License 
- Mozilla Public License
-
-    ## Badges 
- undefined
+    ## License used for this website is 
+ GPL
 
     ## Contributing 
  
