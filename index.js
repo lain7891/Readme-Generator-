@@ -31,18 +31,18 @@ const questions = [
       {
         type: "input",
         message: "Who contributed in this project?",
-        name: "contributing",
+        name: "contributors",
       },
       {
         type: "input",
         message: "How do you test this project?",
-        name: "test",
+        name: "tests",
       },
       {
         type: "list",
         message: "Which license do you want to use?",
         name: "license",
-        choices: ["MIT", "Mozilla Public License", "GPL", "Apache License"],
+        choices: ["MIT", "Mozilla Public License", "GPL", "Apache License", "GNU AGPLv3"] 
       },
       {
         type: "input",
