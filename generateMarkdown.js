@@ -6,20 +6,17 @@ function generateMarkdown(data) {
     data.license
   )}-License-<color>)
 
-    # Project Title  
-    ${data.name}
+ ## Description  
+${data.description}
 
-    ## Description  
-    ${data.description}
+## Table of Contents
 
-    ## Table of Contents
-
-    * [Installation](#installation)
-    * [Usage](#usage)
-    * [License](#license)
-    * [Contributors](#contributors)
-    * [Tests](#tests)
-    * [Questions](#questions)
+* [Installation](#Installation)
+* [Usage](#Usage)
+* [License](#License)
+* [Contributors](#Contributors)
+* [Tests](#Tests)
+* [Questions](#Questions)
     
 
     ## Installation  
@@ -29,7 +26,7 @@ function generateMarkdown(data) {
     ${data.usage}
 
     ## License 
-    ${data.license}
+    the license picked is  ${data.license}
 
     ## Contributors  
     ${data.contributors}

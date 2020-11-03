@@ -2,38 +2,35 @@
   
   ![badge](https://img.shields.io/badge/MIT-License-<color>)
 
-    ### Project Title  
+ ## Description  
+
+
+## Table of Contents
+
+* [Installation](#Installation)
+* [Usage](#Usage)
+* [License](#License)
+* [Contributors](#Contributors)
+* [Tests](#Tests)
+* [Questions](#Questions)
     
 
-    ### Description  
+    ## Installation  
     
 
-    Table of Contents
-
-    * [Installation](#installation)
-    * [Usage](#usage)
-    * [License](#license)
-    * [Contributors](#contributors)
-    * [Tests](#tests)
-    * [Questions](#questions)
+    ## Usage   
     
 
-    ### Installation  
-    
+    ## License 
+    the license picked is  MIT
 
-    ### Usage   
-    
-
-    ### License 
-    MIT
-
-    ### Contributors  
+    ## Contributors  
     undefined
 
-    ### Tests  
+    ## Tests  
     undefined
 
-    ### Questions  
+    ## Questions  
     undefined
 
 
