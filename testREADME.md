@@ -1,39 +1,40 @@
 # undefined
   
-  ![badge](https://img.shields.io/badge/GPL-License-<color>)
+  ![badge](https://img.shields.io/badge/MIT-License-<color>)
 
-    # Project Title 
- 
+    ### Project Title  
+    
 
-    ## Description 
- 
+    ### Description  
+    
 
-    ## Table of Content
+    Table of Contents
 
     * [Installation](#installation)
     * [Usage](#usage)
     * [License](#license)
-    * [Contributing](#contributing)
+    * [Contributors](#contributors)
     * [Tests](#tests)
     * [Questions](#questions)
     
-    ## Installation  
- 
 
-    ## Usage  
- 
+    ### Installation  
+    
 
-    ## License used for this website is 
- GPL
+    ### Usage   
+    
 
-    ## Contributing 
- 
+    ### License 
+    MIT
 
-    ## Tests 
- undefined
+    ### Contributors  
+    undefined
 
-    ## Questions 
- undefined
+    ### Tests  
+    undefined
+
+    ### Questions  
+    undefined
 
 
 
