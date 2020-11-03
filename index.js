@@ -44,6 +44,16 @@ const questions = [
         name: "license",
         choices: ["MIT", "Mozilla Public License", "GPL", "Apache License"],
       },
+      {
+        type: "input",
+        message: "What is your GitHub",
+        name: "github",
+      },
+      {
+        type: "input",
+        message: "What is your email address",
+        name: "email",
+      },
 ]
 inquirer.prompt(questions)
 

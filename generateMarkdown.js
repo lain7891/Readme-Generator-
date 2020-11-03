@@ -35,7 +35,12 @@ ${data.description}
     ${data.tests}
 
     ## Questions  
+    If you have any additional questions or concerns, feel free to contact me at  ${data.email}
+    \n
+    [Github Account](https://www.Github.com/${data.github})
     ${data.questions}
+
+   
 
 
 
