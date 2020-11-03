@@ -11,7 +11,7 @@ const questions = [
       {
         type: "input",
         message: "What is the title of your readme?",
-        name: "name",
+        name: "title",
       },
       {
         type: "input",
@@ -61,20 +61,10 @@ inquirer.prompt(questions)
       const fileName = "testREADME.md";
       console.log(data);
       writeToFile(fileName, data);
-      //   const generateMarkdown = generateMarkdown(response);
     });
 
 
-// fs.writeFile('testREADME.md', generateMarkdown(data), function (err) {
-//     if (err) throw err;
-//     console.log("Done");
-// });
 
-// questions()
-//   .then((data) => writeFileAsync('index.html', generateMarkdown(data)))
-//   .then(() => console.log('Successfully wrote to index.html'))
-//   .catch((err) => console.error(err));
-// function to write README file
 
 function writeToFile(fileName, data) {
   fs.writeFile(fileName, generateMarkdown(data), null, function (err) {
@@ -85,33 +75,3 @@ function writeToFile(fileName, data) {
   });
 }
 
-// function to initialize program
-// function init() {
-// inquirer.prompt(questions).then(function(data){
-//     console.log(data);
-//     fs.writeFile("testREADME.md", generateMarkdown(data), function (err){
-//         if (err) throw err
-//             console.log("Done!");
-//         }
-//     );
-// });
-// }
-
-// const init = async () => {
-//     console.log("test");
-//     try {
-//         const answers = await questions();
-
-//         const mdFile = generateMarkdown(answers);
-
-//         await writeFileAsync('./testREADME.md', mdFile);
-
-//         console.log("Success");
-//     } catch (err) {
-//         console.log(err);
-//     }
-
-//     };
-
-// function call to initialize program
-// init();
