@@ -19,6 +19,9 @@ As a developer you want to spend the bulk of your time focusing on your current 
 
 ![readme-gif](assets/Readme.gif)
 
+<img src="assets/readme1.png" width="400" height="400>
+
+
 * Node.js
 * Variable Created (specifically CONST)
 * Console logging
