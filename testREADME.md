@@ -3,7 +3,7 @@
   ![badge](https://img.shields.io/badge/GPL-License-<color>)
 
  ## Description  
-Helps create a readme for developer in an easier way
+As a developer I want to create a good and quick readme so I can focus most of my time on my project.
 
 ## Table of Contents
 
@@ -16,19 +16,19 @@ Helps create a readme for developer in an easier way
     
 
     ## Installation  
-    create a repo, install npm, install inquirer
+    Create a new repo. Create an index.js, install inquirer, link files, create your array of questions to create readme, test it, display.
 
     ## Usage   
-    node.js, npm
+    node.js, template literals, file systems, console.log, badges
 
     ## License 
     the license picked is  GPL
 
     ## Contributors  
-    myself
+    I created and contributed to this assignment.
 
     ## Tests  
-    VS code
+    Through VS code and an online readme generator
 
     ## Questions  
     If you have any additional questions or concerns, feel free to contact me at  nialupo87@gmail.com
