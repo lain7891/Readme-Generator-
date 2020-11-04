@@ -5,15 +5,15 @@ As a developer you want to spend the bulk of your time focusing on your current 
 
 ## Table of Content
 
-*[Installation](#installation) \n
-*[Usage](#usage) \n
-*[Credits](#credits) \n
-*[License](#license) \n
+* [Installation](#installation) 
+* [Usage](#usage) 
+* [Credits](#credits) 
+* [License](#license) 
 
 ## Installation
 
-*Created a git repository
-*Created an index.js file, testREADME.md and linked it to the getMarkdown.js file provided to us. 
+* Created a git repository
+* Created an index.js file, testREADME.md and linked it to the getMarkdown.js file provided to us. 
 
 ## Usage
 
