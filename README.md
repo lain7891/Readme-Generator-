@@ -5,10 +5,10 @@ As a developer you want to spend the bulk of your time focusing on your current 
 
 ## Table of Content
 
-*[Installation](#installation)
-*[Usage](#usage)
-*[Credits](#credits)
-*[License](#license)
+*[Installation](#installation) \n
+*[Usage](#usage) \n
+*[Credits](#credits) \n
+*[License](#license) \n
 
 ## Installation
 
