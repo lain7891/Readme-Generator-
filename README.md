@@ -17,7 +17,7 @@ As a developer you want to spend the bulk of your time focusing on your current 
 
 ## Usage
 
-<!-- ![Farmers Market Finder Demo]() -->
+![readme-gif](assets/Readme.gif)
 
 * Node.js
 * Variable Created (specifically CONST)

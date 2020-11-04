@@ -1,9 +1,9 @@
 # Readme Generator
   
-  ![badge](https://img.shields.io/badge/GPL-License-<color>)
+  ![badge](https://img.shields.io/badge/MIT-License-<color>)
 
  ## Description  
-As a developer I want to create a good and quick readme so I can focus most of my time on my project.
+As a developer I want to create a good and quick readme so I can focus all my attention on my project.
 
 ## Table of Contents
 
@@ -16,19 +16,19 @@ As a developer I want to create a good and quick readme so I can focus most of m
     
 
     ## Installation  
-    Create a new repo. Create an index.js, install inquirer, link files, create your array of questions to create readme, test it, display.
+    Create a repo, create and index js and install inquirer. Be sure to link files and use file systems to display.
 
     ## Usage   
-    node.js, template literals, file systems, console.log, badges
+    node.js, inquirer, file system, arrays, template literals.
 
     ## License 
-    the license picked is  GPL
+    the license picked is  MIT
 
     ## Contributors  
-    I created and contributed to this assignment.
+    Myself.
 
     ## Tests  
-    Through VS code and an online readme generator
+    Through VS Code
 
     ## Questions  
     If you have any additional questions or concerns, feel free to contact me at  nialupo87@gmail.com
