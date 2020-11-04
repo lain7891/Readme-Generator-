@@ -1,9 +1,9 @@
-# ABOUT ME MYSELF AND I
+# Readme Generator
   
-  ![badge](https://img.shields.io/badge/MIT-License-<color>)
+  ![badge](https://img.shields.io/badge/GPL-License-<color>)
 
  ## Description  
-
+Helps create a readme for developer in an easier way
 
 ## Table of Contents
 
@@ -16,25 +16,25 @@
     
 
     ## Installation  
-    
+    create a repo, install npm, install inquirer
 
     ## Usage   
-    
+    node.js, npm
 
     ## License 
-    the license picked is  MIT
+    the license picked is  GPL
 
     ## Contributors  
-    
+    myself
 
     ## Tests  
-    
+    VS code
 
     ## Questions  
-    If you have any additional questions or concerns, feel free to contact me at  
+    If you have any additional questions or concerns, feel free to contact me at  nialupo87@gmail.com
     
 
-    [Github Account](https://www.Github.com/)
+    [Github Account](https://www.Github.com/lain7891)
    
 
    
